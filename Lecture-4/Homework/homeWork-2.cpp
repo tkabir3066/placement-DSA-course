@@ -15,9 +15,9 @@ while(i<=n){
     int j=1;
     int count=0;
 
-    while (j<=n)
+    while (j<=i)
     {
-       cout<<count-i;
+       cout<<count;
         count++;
         j++;
        
