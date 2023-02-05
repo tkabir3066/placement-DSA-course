@@ -38,13 +38,14 @@ int main(){
   //   i+=2;
   //  }
 
-// // method-2
+//// method-2
 //   while(i<=n){
 //      if(i%2==0){
 //       sum=sum+i;
 //      }
 //       i+=1;
 //   }
+
 
    // method-3
   while(i<=n){
